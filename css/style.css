@@ -1,0 +1,98 @@
+/* div cheatbars
+div {
+  border: 1px solid black;
+}*/
+
+.smalldog {
+    border-radius: 25%;
+    height: 45px;
+    width: 45px;
+}
+
+.navbar {
+    font-family: Montserrat, sans-serif;
+    font-weight: bold;
+    font-size: 22px;
+    background-color: #073378;
+}
+
+.body {
+    padding-top: 200px;
+    font-family: Montserrat, sans-serif;
+}
+
+#about {
+    color: #073378;
+    font-weight: bolder;
+    font-family: Montserrat, sans-serif;
+    padding-top: 90px;
+}
+
+.portrait {
+    border-radius: 15%;
+    margin-bottom: 20px;
+    border-color: #073378;
+    border-style: solid;
+    border-width: thin;
+}
+
+.thumb {
+    border-color: #073378;
+    border-style: solid;
+    border-width: thin;
+}
+
+#bio {
+    color: #073378;
+    font-weight: bold;
+    font-family: Montserrat, sans-serif;
+    margin-left: 17px;
+}
+
+.divider {
+    height: 5px;
+    background-color: #444444;
+    margin-bottom: 55px;
+}
+
+#port {
+    color: #073378;
+    font-weight: bolder;
+    font-family: Montserrat, sans-serif;
+    padding-top: 50px;
+}
+
+#con {
+    padding-bottom: 30px;
+    color: #073378;
+    font-weight: bolder;
+    font-family: Montserrat, sans-serif;
+}
+
+#forms {
+    color: #073378;
+    font-weight: bolder;
+    font-family: Montserrat, sans-serif;
+    margin-left: 20px;
+}
+
+#around {
+    color: #073378;
+    font-weight: bold;
+    font-family: Montserrat, sans-serif;
+    padding-top: 30px;
+}
+
+.btn-primary {
+    background-color: #073378;
+}
+
+.full {
+    background: url('https://res.cloudinary.com/duufxdjoe/image/upload/v1489271543/lake-918982_1920_h55q1u.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    height:100%;
+    background-color: transparent;
+}
