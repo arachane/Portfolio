@@ -30,10 +30,10 @@ div {
 
 .portrait {
     border-radius: 15%;
-    margin-bottom: 20px;
-    border-color: #073378;
+    margin-bottom: 30px;
+    /*border-color: #073378;
     border-style: solid;
-    border-width: thin;
+    border-width: thin;*/
 }
 
 .thumb {
