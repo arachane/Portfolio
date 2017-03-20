@@ -35,7 +35,7 @@ body {
     /*border-color: #073378;
     border-style: solid;
     border-width: thin;*/
-    
+
 }
 
 .thumb {
@@ -98,3 +98,8 @@ body {
     height:100%;
     background-color: transparent;
 }
+
+hr {
+    border: 0;
+    height: 3px;
+    background-image: linear-gradient(to right, rgba(7, 51, 120, 0), rgba(7, 51, 120, 0.75), rgba(7, 51, 120, 0));
